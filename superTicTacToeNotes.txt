@@ -1,0 +1,29 @@
+Include special tokens (Xs and Os with special abilities)
+  Destroy one adjacent opponent token
+  Destroy own token
+  Destroy all surrounding tokens
+  Destroy all opponents tokens in a certain sub ticTac
+  Be able to place two tokens at once
+  Cement block that cannot be removed
+  Cementer cements all of player’s tokens in a sub ticTac
+  Sticker token that is simply placed on top of opponents token
+  Erase a row
+  Blank slate
+  Place in whatever sub ticTac
+Special token pricing
+Ideas for how the tokens should be handed out
+  Randomized every turn with a queue tetris-style
+  Randomized every turn with a couple in hand (be able to hold on to three or four at a time
+  Give currency at the beginning of each game and have the tokens cost some of this currency
+  Be able to buy tokens with points that are given throughout the game
+    Points given for finishing a game
+    Points given for each sub ticTac won
+    Points given for winning an entire game
+    Points given for blocking an opponent who was about to win
+    Can also buy points
+    Should points be handed out throughout the game or at the end of the game you get a wallop of points
+Can’t let local multiplayer currency count for online multiplayer
+  Make local multiplayer kind of a sandbox mode
+    Players assign how much money is given at the beginning of the game and currency is handed out as it is gained throughout the game
+    Players can set which special tokens can and cannot be used
+
